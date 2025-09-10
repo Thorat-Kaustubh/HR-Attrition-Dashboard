@@ -58,6 +58,11 @@ Derived Columns:
   - Experience Group  
 
 ---
+## 📷 Dashboard Preview  
+
+![HR Attrition Dashboard](dashboard.png)
+
+---
 
 ## 🔑 Key Insights  
 - Highest attrition is in **Sales & R&D departments**.  
